@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HYCW110-TF10-180B
+D 1A Straight Square Pins 1mm 3.9mm -40~+105 1 2.3mm 50 1.27mm Black Brass 1x50P Straight,P=1.27mm Pin Headers ROHS 
+K
+F https://datasheet.lcsc.com/lcsc/2201241630_HOAUC-HYCW110-TF10-180B_C2962030.pdf
+$ENDCMP
+#
+#End Doc Library
