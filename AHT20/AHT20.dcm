@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AHT20
+D Integrated temperature and humidity Sensor DC : 2.2 - 5.5V, 0 ~ 100% RH, -40 ~ + 85 .
+K
+F http://www.aosong.com/userfiles/files/media/Data%20Sheet%20AHT20.pdf
+$ENDCMP
+#
+#End Doc Library
