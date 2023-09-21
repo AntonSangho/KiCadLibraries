@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MC-306_32.7680K-A0_ROHS
+D Crystals 32.768KHz 12.5pF 20ppm -40C +85C
+K
+F https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306&lang=en
+$ENDCMP
+#
+#End Doc Library
