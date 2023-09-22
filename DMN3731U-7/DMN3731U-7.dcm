@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMN3731U-7
+D MOSFET MOSFET BVDSS: 25V-30V
+K
+F https://www.mouser.fr/datasheet/2/115/DMN3731U-1594715.pdf
+$ENDCMP
+#
+#End Doc Library

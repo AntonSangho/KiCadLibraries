@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BH1745NUC-E2
+D Digital 16bit Serial Output Type Color Sensor IC: The BH1745NUC is a 16bit IC digital color sensor IC that detects RGB (Red, Green, Blue) components and converts them into digital values. High sensitivity, wide detection range (0.005 to 40k lx), and excellent IR cut characteristics make it easy to accurately obtain the color temperature and brightness of ambient light, making it ideal for backlight adjustment in TVs, tablets, PCs, and other LCD-equipped applications.
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS-10/186653.pdf
+$ENDCMP
+#
+#End Doc Library

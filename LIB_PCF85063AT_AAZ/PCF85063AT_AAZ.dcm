@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCF85063AT_AAZ
+D Real Time Clock Low Power Real time clocks
+K
+F http://www.nxp.com/docs/en/data-sheet/PCF85063A.pdf
+$ENDCMP
+#
+#End Doc Library

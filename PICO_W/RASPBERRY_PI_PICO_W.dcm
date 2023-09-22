@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RASPBERRY_PI_PICO_W
+D RASPBERRY-PI - RASPBERRY PI PICO W - Raspberry Pi Board, Raspberry Pi Pico W, RP2040, 32bit, ARM Cortex-M0+
+K
+F https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

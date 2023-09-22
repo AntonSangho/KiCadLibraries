@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP2138N-3.3TRG1
+D 250mA 3.3V Ultra Low IQ LDO Reg. SOT23 DiodesZetex AP2138N-3.3TRG1, Low Noise LDO Voltage Regulator, 250 (Min)mA, 3.3 V +/-2%, 2.5 to 6.6 Vin, 3-Pin SOT-23
+K
+F https://componentsearchengine.com/Datasheets/1/AP2138N-3.3TRG1.pdf
+$ENDCMP
+#
+#End Doc Library

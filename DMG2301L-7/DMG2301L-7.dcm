@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMG2301L-7
+D MOSFET MOSFET BVDSS
+K
+F https://www.mouser.com/datasheet/2/115/DMG2301L-959562.pdf
+$ENDCMP
+#
+#End Doc Library
