@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SC32S-7PF20PPM__
+D 32.768 kHz +/-20ppm Crystal 7pF 70 kOhms 2-SMD, No Lead
+K
+F https://www.mouser.it/datasheet/2/360/file_PRODUCT_MASTER_50812_GRAPHIC03-542305.pdf
+$ENDCMP
+#
+#End Doc Library

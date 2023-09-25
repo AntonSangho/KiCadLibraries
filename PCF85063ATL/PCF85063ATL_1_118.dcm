@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCF85063ATL_1,118
+D NXP - PCF85063ATL/1,118 - REAL TIME CLOCK/CALENDAR, BINARY, HXSON
+K
+F http://www.nxp.com/docs/en/data-sheet/PCF85063A.pdf
+$ENDCMP
+#
+#End Doc Library
