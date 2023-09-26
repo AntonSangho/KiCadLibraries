@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TS-1101-C-W
+D tact switch 3x6x2.5 stick flat foot white button 260GF
+K
+F http://www.helloxkb.com/public/images/pdf/TS-1101-X-X.pdf
+$ENDCMP
+#
+#End Doc Library
