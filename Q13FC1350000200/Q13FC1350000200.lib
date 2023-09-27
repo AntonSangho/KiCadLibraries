@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model Q13FC1350000200
+#/2642703/1221387/2.50/2/4/Crystal or Oscillator
+DEF Q13FC1350000200 Y 0 30 Y Y 1 F N
+F0 "Y" 350 250 50 H V L CNN
+F1 "Q13FC1350000200" 350 150 50 H V L CNN
+F2 "Q13FC1350000200" 350 50 50 H I L CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Seiko-Epson-Q13FC1350000200_C48615.pdf" 350 -50 50 H I L CNN
+F4 "Crystal 32.768kHz 12.5pF 2-Pin SMD T/R" 350 -150 50 H I L CNN "Description"
+F5 "0.9" 350 -250 50 H I L CNN "Height"
+F6 "Seiko Epson Corporation" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "Q13FC1350000200" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "" 350 -750 50 H I L CNN "Arrow Part Number"
+F11 "" 350 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 400 0 100 L 50 50 0 0 P
+P 2 0 1 6 120 100 120 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 5 0 1 6 160 140 160 -140 240 -140 240 140 160 140 N
+P 2 0 1 6 280 0 300 0 N
+P 2 0 1 6 120 0 100 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library

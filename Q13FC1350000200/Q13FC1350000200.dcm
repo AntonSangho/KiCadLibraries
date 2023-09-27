@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Q13FC1350000200
+D Crystal 32.768kHz 12.5pF 2-Pin SMD T/R
+K
+F https://datasheet.lcsc.com/szlcsc/Seiko-Epson-Q13FC1350000200_C48615.pdf
+$ENDCMP
+#
+#End Doc Library
